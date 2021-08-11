@@ -1,5 +1,5 @@
 # Use
-- Inicialize using venv
+- **INICIALIZE USING VENV(Virtual mode)
 
 ```bash
 python -m venv venv
