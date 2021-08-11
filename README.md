@@ -1,15 +1,15 @@
 # Use
-- Incialize using venv
+- Inicialize using venv
 
 ```bash
 python -m venv venv
 source venv/bin/activate
 ```
 
--   **INSTALL FLASK**
+- **INSTALL FLASK**
 
 pip instal flask
 
-**RUN APPLICATION**
+- **RUN APPLICATION**
 
 flask run
