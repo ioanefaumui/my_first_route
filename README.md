@@ -9,7 +9,7 @@ source venv/bin/activate
 - **INSTALL FLASK**
 
 ```
-pip instal flask
+pip install flask
 ```
 
 - **RUN APPLICATION**
