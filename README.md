@@ -1,20 +1,15 @@
-# Uso
-- Colar o código em `app.py`
-
-- Iniciar e entrar no venv
+# Use
+- Incialize using venv
 
 ```bash
 python -m venv venv
 source venv/bin/activate
 ```
 
--   **NÃO** se esqueça de instalar o flask
+-   **INSTALL FLASK**
 
-- Rodar o **pytest**
+pip instal flask
 
-```bash
-pytest -svv
-```
+**RUN APPLICATION**
 
--   **NÃO** se esqueça de criar o requirements.txt
--   **NÃO** se esqueça de criar o .gitignore
+flask run
